@@ -1,6 +1,6 @@
 # Connect-4-bot-battle
 ## how to start?
-run `git clone "  "` then run `node host.js` and open `localhost:8080/index.html`.
+run `git clone "https://github.com/aidanh958/Connect-4-bot-battle.git"` then run `node host.js` and open `localhost:8080/index.html`.
 
 ## how to make a bot?
 inside the bots folder there is a file called `exampleBot1.js` that serves as a basic example. <br/>
